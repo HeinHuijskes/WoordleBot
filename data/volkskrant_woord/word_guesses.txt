@@ -1,0 +1,10 @@
+aacht: 3
+aafst: 3
+aafje: 4
+aafke: 4
+aaide: 4
+aakje: 4
+aakse: 4
+aafse: 5
+aagje: 5
+aaien: 6
